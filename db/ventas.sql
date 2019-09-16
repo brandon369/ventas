@@ -64,7 +64,7 @@ CREATE TABLE `tblempleado` (
 INSERT INTO `tblempleado` (`docId`, `nombre`, `apellido`, `clave`) VALUES
 (0, 'Nicolas', 'Suzarez', '$2y$10$oBqTVjM01UiEaKpPQBXMeuvGbb2iN/Bgmw4Kno0rfQThLit.ZBpvq'),
 (99, 'editado', 'prueba', '$2y$10$IQWQrJ3BxlnV8nDpSLg1KuGHaxF1fE/m6joM5WLDKYXEFIluJrhAC'),
-(1234, 'Brandon', 'Arrieta', '$2y$10$uuHy6X5QCx7H4Q6JsK6gUOcokeYRKNXj3VppuxnoekSwFChClJP.q'),
+(1234, 'Jose', 'Juan', '$2y$10$uuHy6X5QCx7H4Q6JsK6gUOcokeYRKNXj3VppuxnoekSwFChClJP.q'),
 (9898, 'juan', 'perez', '$2y$10$r4zpVOSuF83bGR5OAMK1LOwGTFAdQs6QVdG9cIel3ku1aRXlnx0MC');
 
 -- --------------------------------------------------------
